@@ -1,10 +1,5 @@
 # Project Title: [ Image-generation-platform ]
 
-![App Screenshots](./client/src/assets/minJourney_1.jpeg)
-![App Screenshots](./client/src/assets/minJourney_2.jpg)
-![App Screenshots](./client/src/assets/minJourney_3.jpeg)
-![App Screenshots](./client/src/assets/minJourney_4.jpeg)
-
 
 ## Table of Contents
 1. [Description](#description)
@@ -79,17 +74,5 @@ Jest
 
 ### License 
 MIT 
-
------
-
-### Questions 
-
-#### GitHub Username: min-hinthar 
-
-#### GitHub URL: https://github.com/min-hinthar
-
-#### GitHub Repo: https://github.com/min-hinthar/AI-Image-Generation-MERN-App
-
-#### Email: min@mandalaymorningstar.com
 
 -----
